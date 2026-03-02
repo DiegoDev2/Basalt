@@ -2,7 +2,7 @@
 
 Basalt is a high-performance, open-source CLI tool built in Go for generating production-ready backends from a simple DSL.
 
-![Basalt TUI](https://raw.githubusercontent.com/DiegoDev2/basalt/main/docs/tui-screenshot.png)
+![Basalt TUI](https://raw.githubusercontent.com/DiegoDev2/basalt/Example.png)
 
 ## Why Basalt?
 

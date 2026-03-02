@@ -2,7 +2,7 @@
 
 Basalt is a high-performance, open-source CLI tool built in Go for generating production-ready backends from a simple DSL.
 
-![Basalt TUI](https://raw.githubusercontent.com/DiegoDev2/basalt/Example.png)
+![Basalt TUI](https://raw.githubusercontent.com/DiegoDev2/Basalt/main/Example.png)
 
 ## Why Basalt?
 
@@ -71,7 +71,7 @@ basalt generate
 **4. Run your API**
 
 ```bash
-cd generated && npm install && npm run dev
+cd generated && pnpm install && pnpm dev
 ```
 
 ## DSL Reference
